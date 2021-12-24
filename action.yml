@@ -1,0 +1,6 @@
+name: 'Update Tracking Plan'
+description: 'Update Tracking Plan w/ Config API'
+
+runs:
+  using: 'node12'
+  main: 'index.js'

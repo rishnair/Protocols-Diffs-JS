@@ -1,0 +1,25 @@
+{
+  "name": "Protocols-Diffs-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishnair/Protocols-Diffs-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishnair/Protocols-Diffs-JS/issues"
+  },
+  "homepage": "https://github.com/rishnair/Protocols-Diffs-JS#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0",
+    "node-fetch": "^3.1.0"
+  }
+}
